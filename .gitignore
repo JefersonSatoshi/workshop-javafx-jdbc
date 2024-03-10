@@ -35,3 +35,4 @@ nbdis/
 # Eclipse
 .settings/
 
+db.properties
